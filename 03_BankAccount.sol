@@ -63,7 +63,7 @@ contract BankAccount{
 
 
 //--------------------------------------------------------------------
-steps 
+/* steps 
 0. log in gmail : nikatsagar94@gmail.com 
     pass: Sagar@123
 
@@ -78,3 +78,4 @@ steps
 8. kepp evry thing as it is click delpy click confornm in metemask
 9. open terminal  click net to debug expald , chat copy contact addres
 10. go to deploy contact add contact and put contact addres click connect 
+*/
