@@ -68,6 +68,13 @@ contract BankAccount{
     pass: Sagar@123
 
     metemask pass: Sagar@123
+
+or
+
+imanasig@gmail.com
+Pass: sis@279
+metamask: latest new pass kamisamahashnine
+
 1. open metamask 
 2. log in remix ide
 3. go to files -> contract creata file bank.sol
